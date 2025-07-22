@@ -42,6 +42,11 @@ export default function NavBar() {
                   Delete Student
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/Movies">
+                  Moviesinfo
+                </a>
+              </li>
               
             </ul>
           </div>
